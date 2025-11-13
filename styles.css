@@ -5,8 +5,8 @@
 /* fonts */
 @font-face {
     font-family: 'StencilStd';
-    src: url('Fonts/StencilSTD/StencilStd.woff') format('woff'),
-         url('Fonts/StencilSTD/StencilStd.ttf') format('truetype');
+    src: url('fonts/stencilstd/StencilStd.woff') format('woff'),
+         url('fonts/stencilstd/StencilStd.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
