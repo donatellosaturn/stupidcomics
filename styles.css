@@ -1,4 +1,4 @@
-
+0
 /* fonts */
 @font-face {
     font-family: 'StencilStd';
@@ -14,7 +14,7 @@ body {
   color: white;
   font-family: Verdana;
   background-image: url('images/oneissilver.png');
-  background-size: 100%;
+  background-size: 100% 100%;
 }
 
 h1 {
