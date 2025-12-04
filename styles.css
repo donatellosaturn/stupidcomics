@@ -12,9 +12,7 @@
 body {
   background-color: black;
   color: white;
-  font-family: Verdana;
-  background-image: url('images/oneissilver.png');
-  background-size: 50%, 50%;  
+  font-family: Verdana; 
 }
 
 h1 {
