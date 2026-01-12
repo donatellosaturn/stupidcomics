@@ -15,6 +15,10 @@ body {
   font-family: Verdana; 
 }
 
+.threeColumn {
+  column-count: 3;
+}
+
 h3 {
   text-align: center;
 }
