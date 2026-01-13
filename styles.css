@@ -42,7 +42,6 @@ h5 {
 .zoom-img {
   width: 300px;
   height: 300px;
-  overflow: hidden;
 }
 
 .zoom-img img {
